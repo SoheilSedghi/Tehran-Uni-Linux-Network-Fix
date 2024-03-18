@@ -6,10 +6,13 @@ This script addresses an issue where the login page might not be accessible or u
 steps:
 
 1. download the "NetFix.sh" file. 
+
 2. add the execute (x) permission to a file:
 
 `$ sudo chmod +x  NetFix.sh`
+
 3. run the code:
 
 `$ ./FixNet.sh`
+
 4. login to the internet ...
